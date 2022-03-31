@@ -1,6 +1,6 @@
 {
   "name": "@jgarber/browsersync-config",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Shareable Browsersync configurations.",
   "keywords": [
     "browsersync",
@@ -26,7 +26,7 @@
     "@jgarber/eslint-config": "*"
   },
   "peerDependencies": {
-    "browser-sync": "^2.27.7"
+    "browser-sync": "^2.27.9"
   },
   "publishConfig": {
     "access": "public"
